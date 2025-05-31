@@ -1,0 +1,28 @@
+
+// FIND — dania droższe niż 50
+db.dishes.find({ price: { $gt: 50 } })
+
+// FIND — pracownicy zatrudnieni po 1 stycznia 2024
+db.employees.find({ hire_date: { $gte: ISODate("2024-01-01T00:00:00Z") } })
+
+// AGGREGATE — liczba opinii na każde danie
+db.reviews.aggregate([
+  { $group: { _id: "$dish_id", reviewCount: { $sum: 1 } } },
+  { $sort: { reviewCount: -1 } },
+  { $limit: 5 },
+  { $project: { dish_id: "$_id", reviewCount: 1, _id: 0 } }
+])
+
+// AGGREGATE — suma zamówionych produktów na dostawcę
+db.supplier_orders.aggregate([
+  { $unwind: "$products" },
+  { $group: { _id: "$supplier_id", totalOrdered: { $sum: "$products.quantity" } } },
+  { $sort: { totalOrdered: -1 } },
+  { $project: { supplier_id: "$_id", totalOrdered: 1, _id: 0 } }
+])
+
+// COUNT — liczba kelnerów
+db.employees.count({ role: "waiter" })
+
+// DISTINCT — unikalne kategorie dań
+db.dishes.distinct("category")
