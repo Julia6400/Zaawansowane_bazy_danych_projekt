@@ -1,0 +1,62 @@
+[
+    {
+        "dish_id": "dish_11",
+        "rating": 2,
+        "comment": "Excellent service and food quality.",
+        "date": "2025-04-05T13:27:49.066359"
+    },
+    {
+        "dish_id": "dish_1",
+        "rating": 3,
+        "comment": "Delicious and fresh!",
+        "date": "2025-04-09T13:27:49.066375"
+    },
+    {
+        "dish_id": "dish_6",
+        "rating": 2,
+        "comment": "Perfectly cooked, will order again.",
+        "date": "2025-05-10T13:27:49.066381"
+    },
+    {
+        "dish_id": "dish_2",
+        "rating": 5,
+        "comment": "Great presentation and flavors!",
+        "date": "2025-05-01T13:27:49.066387"
+    },
+    {
+        "dish_id": "dish_1",
+        "rating": 4,
+        "comment": "Excellent service and food quality.",
+        "date": "2025-05-26T13:27:49.066392"
+    },
+    {
+        "dish_id": "dish_10",
+        "rating": 4,
+        "comment": "Great presentation and flavors!",
+        "date": "2025-04-15T13:27:49.066409"
+    },
+    {
+        "dish_id": "dish_7",
+        "rating": 1,
+        "comment": "Average taste, but quick delivery.",
+        "date": "2025-05-07T13:27:49.066415"
+    },
+    {
+        "dish_id": "dish_12",
+        "rating": 4,
+        "comment": "Perfectly cooked, will order again.",
+        "date": "2025-04-14T13:27:49.066423"
+    },
+    {
+        "dish_id": "dish_13",
+        "rating": 2,
+        "comment": "Delicious and fresh!",
+        "date": "2025-04-16T13:27:49.066429"
+    },
+    {
+        "dish_id": "dish_15",
+        "rating": 5,
+        "comment": "Will definitely come back for more.",
+        "date": "2025-04-01T13:27:49.066437"
+    }
+]

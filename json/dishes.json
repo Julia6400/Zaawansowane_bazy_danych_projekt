@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Pizza Margherita",
+        "price": 52.79,
+        "category": "Pizza",
+        "ingredients": [
+            "mozzarella",
+            "tomato",
+            "basil"
+        ],
+        "supplier": "supplier_6",
+        "details": {
+            "calories": 492,
+            "vegetarian": true
+        }
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "price": 73.15,
+        "category": "Pasta",
+        "ingredients": [
+            "spaghetti",
+            "egg",
+            "parmesan",
+            "pancetta"
+        ],
+        "supplier": "supplier_5",
+        "details": {
+            "calories": 394,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Caesar Salad",
+        "price": 61.5,
+        "category": "Salad",
+        "ingredients": [
+            "romaine lettuce",
+            "parmesan",
+            "croutons",
+            "chicken"
+        ],
+        "supplier": "supplier_4",
+        "details": {
+            "calories": 750,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Tiramisu",
+        "price": 20.1,
+        "category": "Dessert",
+        "ingredients": [
+            "mascarpone",
+            "coffee",
+            "ladyfingers",
+            "cocoa powder"
+        ],
+        "supplier": "supplier_1",
+        "details": {
+            "calories": 328,
+            "vegetarian": true
+        }
+    },
+    {
+        "name": "Grilled Salmon",
+        "price": 54.28,
+        "category": "Main",
+        "ingredients": [
+            "salmon",
+            "lemon",
+            "garlic",
+            "olive oil"
+        ],
+        "supplier": "supplier_6",
+        "details": {
+            "calories": 531,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Beef Burger",
+        "price": 27.64,
+        "category": "Main",
+        "ingredients": [
+            "beef patty",
+            "cheddar",
+            "lettuce",
+            "tomato",
+            "bun"
+        ],
+        "supplier": "supplier_10",
+        "details": {
+            "calories": 488,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Mushroom Risotto",
+        "price": 49.67,
+        "category": "Main",
+        "ingredients": [
+            "arborio rice",
+            "mushrooms",
+            "parmesan",
+            "white wine"
+        ],
+        "supplier": "supplier_7",
+        "details": {
+            "calories": 392,
+            "vegetarian": true
+        }
+    },
+    {
+        "name": "Chicken Curry",
+        "price": 62.83,
+        "category": "Main",
+        "ingredients": [
+            "chicken",
+            "curry paste",
+            "coconut milk",
+            "rice"
+        ],
+        "supplier": "supplier_8",
+        "details": {
+            "calories": 414,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Tomato Soup",
+        "price": 37.81,
+        "category": "Appetizer",
+        "ingredients": [
+            "tomato",
+            "cream",
+            "basil",
+            "garlic"
+        ],
+        "supplier": "supplier_1",
+        "details": {
+            "calories": 368,
+            "vegetarian": true
+        }
+    },
+    {
+        "name": "Panna Cotta",
+        "price": 23.07,
+        "category": "Dessert",
+        "ingredients": [
+            "cream",
+            "sugar",
+            "gelatin",
+            "vanilla"
+        ],
+        "supplier": "supplier_4",
+        "details": {
+            "calories": 435,
+            "vegetarian": true
+        }
+    },
+    {
+        "name": "Ribeye Steak",
+        "price": 38.74,
+        "category": "Main",
+        "ingredients": [
+            "ribeye steak",
+            "salt",
+            "pepper",
+            "butter"
+        ],
+        "supplier": "supplier_6",
+        "details": {
+            "calories": 299,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Greek Salad",
+        "price": 31.26,
+        "category": "Salad",
+        "ingredients": [
+            "feta",
+            "cucumber",
+            "tomato",
+            "olives",
+            "onion"
+        ],
+        "supplier": "supplier_6",
+        "details": {
+            "calories": 289,
+            "vegetarian": true
+        }
+    },
+    {
+        "name": "Sushi Set",
+        "price": 74.97,
+        "category": "Main",
+        "ingredients": [
+            "rice",
+            "nori",
+            "salmon",
+            "avocado"
+        ],
+        "supplier": "supplier_10",
+        "details": {
+            "calories": 345,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Fish and Chips",
+        "price": 40.56,
+        "category": "Main",
+        "ingredients": [
+            "cod",
+            "potatoes",
+            "flour",
+            "beer"
+        ],
+        "supplier": "supplier_7",
+        "details": {
+            "calories": 629,
+            "vegetarian": false
+        }
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "price": 54.37,
+        "category": "Main",
+        "ingredients": [
+            "broccoli",
+            "bell pepper",
+            "carrot",
+            "soy sauce"
+        ],
+        "supplier": "supplier_9",
+        "details": {
+            "calories": 518,
+            "vegetarian": true
+        }
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Fresh Veggies Ltd.",
+        "contact": {
+            "email": "contact@freshveggiesltd.com",
+            "phone": "758-652-145"
+        },
+        "products_supplied": [
+            "vegetables",
+            "herbs"
+        ]
+    },
+    {
+        "name": "Prime Meats",
+        "contact": {
+            "email": "contact@primemeats.com",
+            "phone": "195-494-156"
+        },
+        "products_supplied": [
+            "meat"
+        ]
+    },
+    {
+        "name": "Dairy Best",
+        "contact": {
+            "email": "contact@dairybest.com",
+            "phone": "291-714-630"
+        },
+        "products_supplied": [
+            "cheese",
+            "dairy"
+        ]
+    },
+    {
+        "name": "Ocean Catch",
+        "contact": {
+            "email": "contact@oceancatch.com",
+            "phone": "469-169-465"
+        },
+        "products_supplied": [
+            "seafood",
+            "fish"
+        ]
+    },
+    {
+        "name": "Spice World",
+        "contact": {
+            "email": "contact@spiceworld.com",
+            "phone": "859-188-152"
+        },
+        "products_supplied": [
+            "spices",
+            "herbs"
+        ]
+    },
+    {
+        "name": "Sweet Treats Co.",
+        "contact": {
+            "email": "contact@sweettreatsco.com",
+            "phone": "652-986-616"
+        },
+        "products_supplied": [
+            "desserts",
+            "sweets"
+        ]
+    },
+    {
+        "name": "Golden Grains",
+        "contact": {
+            "email": "contact@goldengrains.com",
+            "phone": "734-372-156"
+        },
+        "products_supplied": [
+            "grains",
+            "rice"
+        ]
+    },
+    {
+        "name": "Herbal Essence",
+        "contact": {
+            "email": "contact@herbalessence.com",
+            "phone": "582-910-956"
+        },
+        "products_supplied": [
+            "herbs",
+            "teas"
+        ]
+    },
+    {
+        "name": "Fruit Basket",
+        "contact": {
+            "email": "contact@fruitbasket.com",
+            "phone": "965-695-740"
+        },
+        "products_supplied": [
+            "fruits"
+        ]
+    },
+    {
+        "name": "Bakery Supply",
+        "contact": {
+            "email": "contact@bakerysupply.com",
+            "phone": "515-423-626"
+        },
+        "products_supplied": [
+            "bakery",
+            "flour"
+        ]
+    }
+]
